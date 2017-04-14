@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageBrowser</string>
+    <string name="btnOpenImage">Open Image</string>
+</resources>
